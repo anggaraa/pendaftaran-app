@@ -1,2 +1,3 @@
-# pendaftaran-app
-Contoh pendaftaran menggunakan phalcon framework
+# pendaftaran-app dengan phalcon framework
+Contoh aplikasi pendaftaran menggunakan phalcon framework
+
